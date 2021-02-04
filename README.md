@@ -1,31 +1,33 @@
 # Interpretator
 Pascal Interpetator (4th semester, 2020)
-- программа не имеет имени
+____
 
-- перед первым BEGIN и любым END символ ';' не ставится
+:pushpin: программа не имеет имени    
 
-- любое ключевое слово можно писать в любом регистре, т.е. wriTE и Write эквивалентны
+:pushpin: перед первым BEGIN и любым END символ ';' не ставится    
 
-в язык включены
+:pushpin: любое ключевое слово можно писать в любом регистре, т.е. wriTE и Write эквивалентны    
 
-* типы: integer, string, boolean
+_В язык включены:_
 
-* комментарии в скобках {}
+:red_circle: Типы: integer, string, boolean    
 
-* экранирование символа ' в строках
+:red_circle: комментарии в скобках {}    
 
-* операторы:
+:red_circle: экранирование символа ' в строках    
 
-- присваивание :=
+:red_circle: Операторы:    
 
-- if then
+:dart: присваивание :=    
 
-- if then else
+:dart: if then    
 
-- while do
+:dart: if then else    
 
-- read
+:dart: while do    
 
-- write
+:dart: read    
 
-- writeln
+:dart: write    
+
+:dart: writeln    
